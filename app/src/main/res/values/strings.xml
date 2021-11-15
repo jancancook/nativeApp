@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">RentalZ App</string>
+    <string name="notification_1">Login successfully</string>
+    <string name="notification_2">Create your rental successfully .Please enter the button to back Home Screen</string>
+
+    <string name="create">Create</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="tv_ADD">New Property</string>
+    <string name="tv_loginBtn">Login</string>
+    <string name="tv_nextBtn">Next</string>
+    <string name="tv_back">Back</string>
+
+    <string name="tv_nameReporter"><b>Name reporter :</b></string>
+    <string name="tv_nameRental"><b>Rental name :</b></string>
+    <string name="tv_address"><b>Address :</b></string>
+    <string name="tv_type"><b>Type :</b></string>
+    <string name="tv_furniture"><b>Furniture :</b></string>
+    <string name="tv_bedroom"><b>No. Bedroom :</b></string>
+    <string name="tv_price"><b>Price :</b></string>
+    <string name="tv_note"><b>Note :</b></string>
+
+    <string name="hint_nameReporter">Enter name reporter</string>
+    <string name="hint_nameRental">Enter rental name</string>
+    <string name="hint_address">Enter address</string>
+    <string name="hint_type">Select type</string>
+    <string name="hint_furniture">Select furniture</string>
+    <string name="hint_bedroom">Enter number of bedroom</string>
+    <string name="hint_price">Enter price</string>
+    <string name="hint_priceRef"> $ monthly</string>
+    <string name="hint_note">Enter note(optional)</string>
+
+
+    <string name="tv_select_city"><b>Select city</b></string>
+    <string name="tv_select_district"><b>Select district</b></string>
+    <string name="tv_select_ward"><b>Select ward</b></string>
+    <string name="tv_select_type"><b>Select type</b></string>
+    <string name="tv_select_furniture"><b>Select furniture</b></string>
+
+
+    <string-array name="types">
+        <item>Flat</item>
+        <item>House</item>
+        <item>Pen House</item>
+        <item>Bungalow</item>
+    </string-array>
+
+    <string-array name="furniture">
+        <item>Furnished</item>
+        <item>Unfurnished</item>
+        <item>Part-furnished</item>
+    </string-array>
+</resources>
